@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wobot-login-page/static/css/main.c25f0979.css",
-    "main.js": "/wobot-login-page/static/js/main.92747142.js",
+    "main.css": "/wobot-login-page/static/css/main.2141933c.css",
+    "main.js": "/wobot-login-page/static/js/main.ad524e7f.js",
     "static/media/logo.svg": "/wobot-login-page/static/media/logo.c8b6493b7b5deddbd2bbba85d493f484.svg",
     "index.html": "/wobot-login-page/index.html",
     "static/media/loginLogo.svg": "/wobot-login-page/static/media/loginLogo.0e471130c4f05a4d4f3bdc7658536923.svg",
     "static/media/Background.svg": "/wobot-login-page/static/media/Background.86e3b937b7f6b1cd62f3.svg",
     "static/media/arrowDown.svg": "/wobot-login-page/static/media/arrowDown.1383571e25c1c5fd08fa2d1e7d468eae.svg",
-    "main.c25f0979.css.map": "/wobot-login-page/static/css/main.c25f0979.css.map",
-    "main.92747142.js.map": "/wobot-login-page/static/js/main.92747142.js.map"
+    "main.2141933c.css.map": "/wobot-login-page/static/css/main.2141933c.css.map",
+    "main.ad524e7f.js.map": "/wobot-login-page/static/js/main.ad524e7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c25f0979.css",
-    "static/js/main.92747142.js"
+    "static/css/main.2141933c.css",
+    "static/js/main.ad524e7f.js"
   ]
 }
