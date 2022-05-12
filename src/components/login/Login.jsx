@@ -5,7 +5,7 @@ import Form from '../form/Form'
 
 const Login = () => {
   return (
-    <section className='max-w-[1440px] mx-auto pb-[197px] mt-[200px] md:mt-[93px]'>
+    <section className=' mx-auto pb-[197px] mt-[200px] md:mt-[93px]'>
         
 
         {/* Login container */}
