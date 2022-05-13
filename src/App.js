@@ -3,7 +3,7 @@ import LoginPage from './pages/loginPage/LoginPage';
 
 function App() {
   return (
-    <div className="max-w-[1440px] h-[901px] bg-[#F9F9F9] overflow-x-hidden">
+    <div className="w--full h-full bg-[#F9F9F9] overflow-x-auto scroll-b">
       <LoginPage />
     </div>
   );
